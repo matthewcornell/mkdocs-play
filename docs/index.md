@@ -2,6 +2,10 @@
 
 For full documentation visit [mkdocs.org](https://mkdocs.org).
 
+## subdir link
+[cool.md](subdir/cool.md)
+
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
